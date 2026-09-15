@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "CrYpTo ChOiZ",
+    "slug": "crypto-choiz-v2",
+    "version": "1.2",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
+    "android": {
+      "package": "com.crypto_choiz.cryptochoizv2"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "92f2e4f2-5cab-4a57-af8c-7d4289ddf3f9"
+      }
+    }
+  }
+}
